@@ -1,0 +1,8 @@
+﻿Parašyti programą, skirtą katalogo ir viso to kas jame yra kopijavimui iš vienos vietos į kitą.
+Katalogų pavadinimai ir vieta įvedami interaktyviai. Jei nenurodomas naujas katalogo
+pavadinimas, vadinasi kopija daroma senu pavadinimu. Turi būti atliekamas tikrinimas ar
+nurodytas katalogas, kuri teks kopijuoti, egzistuoja, ar vartotojas turi atitinkamas teises
+nukopijuoti į tą vietą savo katalogą. Jei tokių teisių nėra, reikalaujama įvesti kitą vietą.
+Kopijuojami failai su išplėtimais .log keičiami į failus su išplėtimais .old. Į ekraną ir failą
+(pakeitimai.log) išvedami failų, kurie buvo pakeisti, pavadinimai bei data, kada buvo atlikti
+pakeitimai. Failas pakeitimai.log siunčiamas e-paštu nurodytu adresu.
