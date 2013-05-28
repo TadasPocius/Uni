@@ -14,4 +14,11 @@
 	<natures>
 		<nature>org.epic.perleditor.perlnature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>second.pl</name>
+			<type>1</type>
+			<location>D:/Repository/Uni/PERL/1.2/second.pl</location>
+		</link>
+	</linkedResources>
 </projectDescription>
